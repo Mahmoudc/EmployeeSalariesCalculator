@@ -1,0 +1,38 @@
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\ChahineSoftwareSolutions.mdf
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\ChahineSoftwareSolutions_log.ldf
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.exe.config
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.exe
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.pdb
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.Form1.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.Properties.Resources.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.exe
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.pdb
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.frmShiftDetails.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.frmEmployeeInfo.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.frmShiftInfo.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.exe.manifest
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.application
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.exe.manifest
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.application
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.Form1.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.frmEmployeeInfo.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.frmShiftDetails.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.frmShiftInfo.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee_Salaries.Properties.Resources.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.exe
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.pdb
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\ChahineSoftwareSolutions.mdf
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\ChahineSoftwareSolutions_log.ldf
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.exe.config
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.exe.manifest
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.application
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.exe
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\bin\Debug\Employee Salaries.pdb
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.exe.manifest
+C:\Users\mahmo\Desktop\Git\WindowsForms\EmployeeApp\Employee Salaries\Employee Salaries\obj\Debug\Employee Salaries.application
